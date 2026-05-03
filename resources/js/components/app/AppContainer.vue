@@ -12,7 +12,7 @@
                     :key="item.key"
                     :to="{name: item.key}"
                     class="app-shell__nav-link"
-                    active-class="is-active"
+                    exact-active-class="is-active"
                 >
                     <span class="app-shell__nav-icon">{{ item.icon }}</span>
                     <span class="app-shell__nav-label">{{ item.label }}</span>
