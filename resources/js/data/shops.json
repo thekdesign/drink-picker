@@ -111,22 +111,6 @@
         "priceLevel": "$"
     },
     {
-        "id": "louisa",
-        "name": "Louisa Coffee 路易莎",
-        "brand": "Louisa",
-        "logo": "☕️",
-        "menuUrl": "https://www.louisacoffee.com.tw/menu",
-        "deliveryUrls": {
-            "uberEats": "https://www.ubereats.com/tw/category/taipei-tpe/coffee",
-            "foodpanda": "https://www.foodpanda.com.tw/restaurants/new?q=Louisa"
-        },
-        "highlights": ["平價精品咖啡", "燕麥拿鐵", "店內可坐"],
-        "openHour": "07:00-22:00",
-        "walkMinutes": 6,
-        "rating": 4.2,
-        "priceLevel": "$$"
-    },
-    {
         "id": "tp-tea",
         "name": "茶湯會",
         "brand": "TP Tea",
@@ -237,19 +221,51 @@
         "priceLevel": "$$"
     },
     {
-        "id": "cama",
-        "name": "CAMA Café",
-        "brand": "CAMA",
-        "logo": "🐻",
-        "menuUrl": "https://www.camacafe.com/menu",
+        "id": "de-zheng",
+        "name": "得正",
+        "brand": "得正 OoLi Tea",
+        "logo": "🍋",
+        "menuUrl": "https://www.oolitea.com/menu",
         "deliveryUrls": {
-            "uberEats": "https://www.ubereats.com/tw/category/taipei-tpe/coffee",
-            "foodpanda": "https://www.foodpanda.com.tw/restaurants/new?q=CAMA"
+            "uberEats": "https://www.ubereats.com/tw/category/taipei-tpe/bubble-tea",
+            "foodpanda": "https://www.foodpanda.com.tw/restaurants/new?q=%E5%BE%97%E6%AD%A3"
         },
-        "highlights": ["現烘咖啡豆", "拿鐵濃醇", "店內可坐"],
-        "openHour": "07:30-21:00",
-        "walkMinutes": 7,
-        "rating": 4.3,
+        "highlights": ["烏龍奶茶招牌", "鮮榨檸檬青茶", "排隊名店"],
+        "openHour": "11:00-22:00",
+        "walkMinutes": 13,
+        "rating": 4.5,
+        "priceLevel": "$$"
+    },
+    {
+        "id": "ba-yao",
+        "name": "八曜和茶",
+        "brand": "八曜和茶",
+        "logo": "🍃",
+        "menuUrl": "https://www.facebook.com/8yotea/",
+        "deliveryUrls": {
+            "uberEats": "https://www.ubereats.com/tw/category/taipei-tpe/bubble-tea",
+            "foodpanda": "https://www.foodpanda.com.tw/restaurants/new?q=%E5%85%AB%E6%9B%9C%E5%92%8C%E8%8C%B6"
+        },
+        "highlights": ["日式宇治抹茶", "焙茶拿鐵", "茶香乾淨"],
+        "openHour": "11:00-22:00",
+        "walkMinutes": 16,
+        "rating": 4.4,
+        "priceLevel": "$$"
+    },
+    {
+        "id": "jenjudan",
+        "name": "珍煮丹",
+        "brand": "Truedan",
+        "logo": "⚫",
+        "menuUrl": "https://www.facebook.com/truedan.tw/",
+        "deliveryUrls": {
+            "uberEats": "https://www.ubereats.com/tw/category/taipei-tpe/bubble-tea",
+            "foodpanda": "https://www.foodpanda.com.tw/restaurants/new?q=%E7%8F%8D%E7%85%AE%E4%B8%B9"
+        },
+        "highlights": ["黑糖珍珠鮮奶招牌", "古早味黑糖香", "用料實在"],
+        "openHour": "11:00-22:00",
+        "walkMinutes": 12,
+        "rating": 4.4,
         "priceLevel": "$$"
     }
 ]
